@@ -2,7 +2,7 @@
 
 require_once('../include/class.smtp.php');
 
-define('KEY', 'MkLbpQnUviS5O1b4UtVTxe2QTPUEL1fuTqFRWHc4BulR4TyP7Y');
+define('KEY', '{server_notify_key}');
 
 define('SMTP_HOST', 'iisleviponti.it');
 define('SMTP_PORT', 25);
