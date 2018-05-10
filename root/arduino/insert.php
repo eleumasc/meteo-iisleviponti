@@ -2,7 +2,7 @@
 
 require_once('../include/database.php');
 
-define('KEY', 'sdpXoytYy5CrpuR7Nrbo9YfJK39J1yzbKnYgdoJwLzbEGoMxkq');
+define('KEY', '{server_insert_key}');
 
 function getInputData() {
 
